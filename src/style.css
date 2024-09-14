@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(242, 255, 251);
+    background-color: rgb(244, 244, 255);
     font-family: sans-serif;
+    color:rgb(48, 48, 48);
 }
 
 .container {
@@ -51,6 +52,7 @@ select {
     font-size: 18px;
     padding: 10px;
     border-radius: 5px;
+    border-color: rgb(171, 171, 255);
 }
 
 h1 {
